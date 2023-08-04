@@ -5,7 +5,7 @@ import numpy as np
 import os.path
 import math
 from centroid_tracker import CentroidTracker
-from trackableobject import TrackableObject
+from object_tracker import TrackableObject
 
 # Initialize the parameters
 confThreshold = 0.6  #Confidence threshold
