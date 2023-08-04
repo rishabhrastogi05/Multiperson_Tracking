@@ -4,7 +4,7 @@ import sys
 import numpy as np
 import os.path
 import math
-from centroidtracker import CentroidTracker
+from centroid_tracker import CentroidTracker
 from trackableobject import TrackableObject
 
 # Initialize the parameters
